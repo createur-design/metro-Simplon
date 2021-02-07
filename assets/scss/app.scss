@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;1,400&display=swap");
+
+$rougeSimplon: #ce0033;
+
+@import "./components/owl";
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.drag {
+  text-align: center;
+}

@@ -1,0 +1,10 @@
+{
+  "minify.minifyExistingOnSave": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/assets/css"
+    }
+  ]
+}
